@@ -7,9 +7,14 @@ A professional, full-stack inventory management solution built with **Flutter** 
 ## 📱 App Screenshots
 
 <div align="center">
-  <img src="screenshots/login.png" width="250" alt="Login Screen">
-  <img src="screenshots/dashboard.png" width="250" alt="Dashboard">
-  <img src="screenshots/inventory.png" width="250" alt="Inventory List">
+  <img src="Screenshot 2026-02-25 050736.png" width="250" alt="Login Screen">
+  <img src="Screenshot 2026-02-25 052408.png" width="250" alt="Dashboard">
+  <img src="Screenshot 2026-02-25 052726.png" width="250" alt="Inventory List">
+</div>
+
+<div align="center">
+  <img src="Screenshot 2026-02-25 052757.png" width="250" alt="Add Product">
+  <img src="Screenshot 2026-02-25 052821.png" width="250" alt="Product Details">
 </div>
 
 ---
@@ -18,7 +23,7 @@ A professional, full-stack inventory management solution built with **Flutter** 
 
 * **🔐 Secure Authentication:** Sleek login interface with predefined administrative access.
 * **📊 Smart Analytics Dashboard:** Real-time calculation of total stock value, item count, and low-stock alerts.
-* **📦 Advanced Inventory Management:** Full CRUD operations for products.
+* **📦 Advanced Inventory Management:** Full CRUD operations (Create, Read, Update, Delete) for products.
 * **🔍 Quick Search:** Instant filtering by product name or barcode.
 * **🎨 Premium UI/UX:** Dark-themed design with glassmorphism effects and intuitive navigation.
 * **📷 Barcode Integration:** Ready-to-use scanner for rapid product entry.
@@ -33,4 +38,4 @@ A professional, full-stack inventory management solution built with **Flutter** 
 
 ---
 
-**Developed with ❤️ by [mohaned elsoudy]**
+**Developed with ❤️ by m3haned00**
